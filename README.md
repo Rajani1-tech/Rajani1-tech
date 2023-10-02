@@ -7,4 +7,4 @@
 
 
 
-![Profile Views](https://profile-counter.glitch.me/Rajani1-tech/count.svg)
+![Profile Views](https://profile-counter.glitch.me/Rajani1-tech&style=plastic&color=brightgreen&base=1000))
