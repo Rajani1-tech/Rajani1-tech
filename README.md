@@ -4,5 +4,6 @@
 - 🌱 Currently, I'm in the process of learning about machine learning and deep learning.
 - ✨ I'm on the lookout for similar-minded individuals to collaborate with, those who share my interests.
   
-![](https://komarev.com/ghpvc/?username=Rajani1-tech&base=1000)
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
