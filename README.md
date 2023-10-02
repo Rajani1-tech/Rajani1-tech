@@ -6,7 +6,7 @@
 - 📫 I maintain a blog on my Medium profile chronicling my learning experiences.
 - 🌱 Currently, I'm in the process of learning about machine learning and deep learning.
 - ✨ I'm on the lookout for similar-minded individuals to collaborate with, those who share my interests.
-  <div>
+!  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
