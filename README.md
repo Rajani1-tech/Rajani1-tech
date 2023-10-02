@@ -6,5 +6,4 @@
   
 
 
-
-![Profile Views](https://profile-counter.glitch.me/Rajani1-tech&style=plastic&color=brightgreen&base=1000))
+(https://komarev.com/ghpvc/?username=Rajani1-tech&style=plastic&color=brightgreen&base=1000)
