@@ -12,4 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajani1-tech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Rajani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajani1-tech&theme=radical&hide=prs)
+![Rajani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajani1-tech&theme=gruvbox&hide=prs)
