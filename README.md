@@ -28,4 +28,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajani1-tech&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajani1-tech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Rajani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajani1-tech&theme=gruvbox)
+![Rajani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajani1-tech&theme=dark)
